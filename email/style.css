@@ -1,0 +1,49 @@
+.container {
+    display: flex;
+    align-items: center;
+ 
+    height: 150px;
+  }
+  
+  button {
+    margin: 0;
+    border: 1px solid black;
+    padding: 0px 5;
+    width: 50px;
+    height: 100;
+
+    background-color: transparent;
+  }
+  
+  .text-container {
+
+  }
+  
+  .text-container p:nth-child(-n+3) {
+    margin: 5;
+    border: 1px solid black;
+    padding: 5px 5;
+  }
+
+  .text-container p:last-child {
+margin-left:;  
+}
+
+  .input-container {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+input {
+    margin: 8px;
+  }
+
+  #sub{
+    width: 92%;
+  }
+
+  #textbox{
+    width: 100%;
+    height: auto;
+  }
