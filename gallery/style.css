@@ -1,0 +1,28 @@
+.gallery{
+    float: left;
+    align-items:first baseline
+    margin: auto
+    
+}
+.pic{
+    float: left;
+    display: block;
+    border: solid rgb(151, 151, 151) 1px;
+    margin: 5px;
+    padding-bottom: 40px;
+}
+
+img{
+    width: auto;
+    height: 195px;
+    margin: 5px;
+}
+
+.text{
+    text-align: center;
+    font-size: 20px;
+}
+
+.pic:hover{
+    border: solid black 1px;
+}
