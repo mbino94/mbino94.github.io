@@ -7,5 +7,5 @@
 }
 
 .col:hover{
-    border: solid black 1px;
+    border: solid rgba(0, 0, 0, 0.952) 1px;
 }
