@@ -1,0 +1,11 @@
+.text{
+    text-align: center;
+}
+
+.col{
+    border: solid rgba(0, 0, 0, 0.301) 1px;
+}
+
+.col:hover{
+    border: solid black 1px;
+}
