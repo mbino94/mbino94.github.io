@@ -1,0 +1,21 @@
+.light-text{
+    color: whitesmoke;
+}
+
+.screen{
+    height: 120px;
+}
+
+.calcBg{
+    width: 390px !important;
+}
+
+.customBtn{
+    background: 
+    #8b939aa1 !important;
+}
+
+.equals{
+    background: 
+    #828990;
+}
